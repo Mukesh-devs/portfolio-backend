@@ -1,0 +1,48 @@
+Mukesh M K
+Aspiring Software Developer
+
+contact@mukesh.tech - linkedin.com/in/mukeshmurugan - mukesh.tech
+Profile
+
+Innovative and results-driven Computer Science graduate with a strong foundation in software development, sys-
+tem design, and analytics. Adept at leveraging modern technologies to build scalable applications and optimize
+
+system performance. Proven ability to contribute in team-oriented environments, communicate technical concepts
+effectively, and drive impactful outcomes through continuous learning and hands-on development.
+Training & Experience
+ZOHO - Graduate Studies, Chennai - Incubation Trainee Feb 2025 – July 2025
+6-month intensive training in full-stack development, software engineering practices, and real-world problem solving.
+Exposure to live projects, code reviews, and mentorship from industry professionals at Zoho Corporation.
+TNS India Foundation (with Capgemini) - Technical Careers Program Dec 2023 – May 2024
+Completed technical and professional training in SQL, Core Java 8, JPA with Hibernate, Git, Spring Boot, HTML5,
+CSS3, JavaScript and soft skills. Focused on full-stack web development and workplace readiness.
+Skills
+Programming Languages: Java, Python
+Backend Frameworks: Spring Boot, JPA with Hibernate, RESTful APIs
+Databases: MySQL
+DevOps & Tools: Docker, Git, Postman
+Operating Systems: Linux
+Networking: Understanding of OSI model, network protocols, and network troubleshooting techniques
+Projects & Achievements
+MovieTime AI: A Full-Stack Conversational Agent for Smart Movie Ticket Booking
+Built a scalable backend using Java (Spring Boot) and MySQL with secure authentication and modular REST
+APIs. Integrated a Python AI agent using Google Gemini to handle natural language queries. Enabled real-time,
+chat-based movie ticket booking through a React frontend.
+MedBot: Evidence Retrieval System for Health Queries
+Built an AI-powered healthcare evidence validation system integrating a large biomedical knowledge graph with live
+PubMed research. Implemented semantic search using Sentence Transformers and real-time evidence classification.
+Designed interactive D3.js visualizations for intuitive exploration.
+Certifications
+Oracle Cloud Infrastructure 2025 Generative AI Professional - Oracle Oct 2025
+SQL – HackerRank Jan 2025
+Docker Foundations Professional Certificate - LinkedIn Jun 2024
+Data Analytics – IBM Jul 2023
+DevOps – GUVI Aug 2023
+Cloud Essentials – Veranda Mar 2022
+Education
+Anna University Nov 2020 – Jun 2024
+Bachelor of Engineering in Computer Science CGPA: 8.62/10
+Our Angel Matriculation Higher Secondary School Jun 2019 – May 2020
+HSC Percentage: 67%
+Our Angel Matriculation Higher Secondary School Jun 2017 – May 2018
+SSLC Percentage: 85%
