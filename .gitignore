@@ -1,7 +1,4 @@
-/.env
-
-/env
-.venv
-venv
-bin
-lib
+venv/
+__pycache__/
+*.pyc
+.env
